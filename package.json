@@ -1,16 +1,24 @@
 {
-  "name": "curso",
+  "name": "front-end_bootstrap",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "popper.js": "^1.15.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipecosta-silva/Front-End_Bootstrap.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.15.0"
-  }
+  "bugs": {
+    "url": "https://github.com/felipecosta-silva/Front-End_Bootstrap/issues"
+  },
+  "homepage": "https://github.com/felipecosta-silva/Front-End_Bootstrap#readme"
 }
