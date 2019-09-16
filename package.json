@@ -1,7 +1,6 @@
 {
   "name": "front-end_bootstrap",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "popper.js": "^1.15.0",
@@ -20,5 +19,7 @@
   "bugs": {
     "url": "https://github.com/felipecosta-silva/Front-End_Bootstrap/issues"
   },
-  "homepage": "https://github.com/felipecosta-silva/Front-End_Bootstrap#readme"
+  "homepage": "https://github.com/felipecosta-silva/Front-End_Bootstrap#readme",
+  "keywords": [],
+  "description": ""
 }
